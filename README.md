@@ -5,7 +5,7 @@ Data Science Student
 --------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Myportfolio](http://github.com/JyothiMekalaa/Jyothi_Portfolio)
+* 🖥️  See my portfolio at [Myportfolio](https://jyothimekalaa.github.io/Portfolio/)
 * ✉️  You can contact me at [jyothimekala140@gmail.com](mailto:jyothimekala140@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on python and Machine Learning Projects
